@@ -1,0 +1,18 @@
+{
+    "short_name": "PokeWiki",
+    "name": "Pokewiki",
+    "description": "Pokedex ligera y facil de usar",
+    "icons": [
+      {
+        "src": "/icono.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      }
+      
+    ],
+    "start_url": "/",
+    "background_color": "white",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#f7f8fa"
+  }
